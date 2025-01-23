@@ -18,6 +18,8 @@ Ce projet est une application en C++ qui simule un système de gestion de rencon
  - **Nom** : Jean Dupont  
  - **Spécialité** : Informatique 
  - **Niveau** : L3
+2. **Inscription d'une entreprise**
+    
 ## Comment lancer le projet
 1. **Cloner le dépôt** :
    ```bash
