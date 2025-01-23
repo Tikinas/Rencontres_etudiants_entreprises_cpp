@@ -19,7 +19,15 @@ Ce projet est une application en C++ qui simule un système de gestion de rencon
  - **Spécialité** : Informatique 
  - **Niveau** : L3
 2. **Inscription d'une entreprise**
-    
+ - **Nom** : TechCorp
+ - **Secteur** : Développement logiciel
+ - **Offres** : Stage en C++
+
+3.**Planification d'un rendez-vous**
+ - **Étudiant** : Jean Dupon
+ - **Entreprise** : TechCorp
+ - **Date** : 29/01/2025
+ - **Heure** : 14h00
 ## Comment lancer le projet
 1. **Cloner le dépôt** :
    ```bash
