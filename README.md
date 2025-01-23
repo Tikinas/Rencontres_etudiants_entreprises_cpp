@@ -15,9 +15,9 @@ Ce projet est une application en C++ qui simule un système de gestion de rencon
 - **Compilation** : GCC ou tout autre compilateur C++
 ## Exemple d'utilisation
 1. **Inscription d'un étudiant** :
-   Nom : Jean Dupont
-   Spécialité : Informatique
-   Niveau : L3
+   -**Nom** : Jean Dupont
+   -**Spécialité** : Informatique
+   -**Niveau**: L3
 ## Comment lancer le projet
 1. **Cloner le dépôt** :
    ```bash
