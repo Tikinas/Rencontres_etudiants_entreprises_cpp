@@ -32,3 +32,17 @@ Ce projet est une application en C++ qui simule un système de gestion de rencon
 1. **Cloner le dépôt** :
    ```bash
    git clone https://github.com/Tikinas/Rencontres_etudiants_entreprises_cpp.git
+   cd Rencontres_etudiants_entreprises_cpp
+2.**Compilation**
+-Option 1 : avec CMake (recommandé)
+```bash
+  mkdir build && cd build
+  cmake ..
+  make
+  ./ree
+```
+#Option 2 : compilation directe avec g++
+```bash
+  g++ src/*.cpp -I include -o ree
+  ./ree 
+```
